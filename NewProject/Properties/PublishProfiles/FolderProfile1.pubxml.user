@@ -16,10 +16,10 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>09/10/2013 17:29:20</publishTime>
     </File>
     <File Include="bin/App_global.asax.compiled">
-      <publishTime>12/08/2021 15:00:31</publishTime>
+      <publishTime>12/08/2021 15:49:43</publishTime>
     </File>
     <File Include="bin/App_global.asax.dll">
-      <publishTime>12/08/2021 15:00:31</publishTime>
+      <publishTime>12/08/2021 15:49:43</publishTime>
     </File>
     <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
       <publishTime>05/24/2018 14:38:22</publishTime>
@@ -43,10 +43,10 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>12/05/2021 15:51:26</publishTime>
     </File>
     <File Include="bin/NewProject.dll">
-      <publishTime>12/08/2021 15:00:26</publishTime>
+      <publishTime>12/08/2021 15:49:37</publishTime>
     </File>
     <File Include="bin/NewProject.pdb">
-      <publishTime>12/08/2021 15:00:26</publishTime>
+      <publishTime>12/08/2021 15:49:37</publishTime>
     </File>
     <File Include="bin/Newtonsoft.Json.dll">
       <publishTime>02/18/2018 09:44:54</publishTime>
@@ -580,7 +580,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>12/08/2021 14:46:36</publishTime>
     </File>
     <File Include="PrecompiledApp.config">
-      <publishTime>12/08/2021 15:00:27</publishTime>
+      <publishTime>12/08/2021 15:49:38</publishTime>
     </File>
     <File Include="Scripts/bootstrap.js">
       <publishTime>12/08/2021 11:10:25</publishTime>
