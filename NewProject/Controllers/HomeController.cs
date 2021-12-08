@@ -10,6 +10,9 @@ namespace NewProject.Controllers
     {
         public ActionResult Index()
         {
+            var logger = NLog.LogManager.GetCurrentClassLogger();
+            logger.Debug("User Login", new { ID = 65465849, User = "Stackify" });
+
             return View();
         }
 
