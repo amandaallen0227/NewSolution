@@ -16,22 +16,34 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>09/10/2013 17:29:20</publishTime>
     </File>
     <File Include="bin/App_global.asax.compiled">
-      <publishTime>12/08/2021 11:13:04</publishTime>
+      <publishTime>12/09/2021 09:48:10</publishTime>
     </File>
     <File Include="bin/App_global.asax.dll">
-      <publishTime>12/08/2021 11:13:04</publishTime>
+      <publishTime>12/09/2021 09:48:09</publishTime>
     </File>
     <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
       <publishTime>05/24/2018 14:38:22</publishTime>
     </File>
+    <File Include="bin/Microsoft.Extensions.Configuration.Abstractions.dll">
+      <publishTime>12/09/2021 09:47:05</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Extensions.Configuration.dll">
+      <publishTime>12/09/2021 09:47:05</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Extensions.Primitives.dll">
+      <publishTime>12/09/2021 09:47:05</publishTime>
+    </File>
     <File Include="bin/Microsoft.Web.Infrastructure.dll">
       <publishTime>07/25/2012 12:48:56</publishTime>
     </File>
+    <File Include="bin/Microsoft.Win32.Primitives.dll">
+      <publishTime>12/09/2021 09:47:05</publishTime>
+    </File>
     <File Include="bin/NewProject.dll">
-      <publishTime>12/08/2021 11:13:00</publishTime>
+      <publishTime>12/09/2021 09:48:03</publishTime>
     </File>
     <File Include="bin/NewProject.pdb">
-      <publishTime>12/08/2021 11:13:00</publishTime>
+      <publishTime>12/09/2021 09:48:03</publishTime>
     </File>
     <File Include="bin/Newtonsoft.Json.dll">
       <publishTime>02/18/2018 09:44:54</publishTime>
@@ -174,6 +186,63 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     <File Include="bin/roslyn/VBCSCompiler.exe.config">
       <publishTime>05/24/2018 14:38:24</publishTime>
     </File>
+    <File Include="bin/Serilog.dll">
+      <publishTime>12/09/2021 09:47:05</publishTime>
+    </File>
+    <File Include="bin/Serilog.Sinks.Stackify.dll">
+      <publishTime>12/09/2021 09:47:05</publishTime>
+    </File>
+    <File Include="bin/StackifyLib.dll">
+      <publishTime>12/09/2021 09:47:05</publishTime>
+    </File>
+    <File Include="bin/System.AppContext.dll">
+      <publishTime>12/09/2021 09:47:05</publishTime>
+    </File>
+    <File Include="bin/System.Console.dll">
+      <publishTime>12/09/2021 09:47:05</publishTime>
+    </File>
+    <File Include="bin/System.Diagnostics.DiagnosticSource.dll">
+      <publishTime>12/09/2021 09:47:05</publishTime>
+    </File>
+    <File Include="bin/System.Globalization.Calendars.dll">
+      <publishTime>12/09/2021 09:47:06</publishTime>
+    </File>
+    <File Include="bin/System.IO.Compression.dll">
+      <publishTime>12/09/2021 09:47:06</publishTime>
+    </File>
+    <File Include="bin/System.IO.Compression.ZipFile.dll">
+      <publishTime>12/09/2021 09:47:06</publishTime>
+    </File>
+    <File Include="bin/System.IO.FileSystem.dll">
+      <publishTime>12/09/2021 09:47:06</publishTime>
+    </File>
+    <File Include="bin/System.IO.FileSystem.Primitives.dll">
+      <publishTime>12/09/2021 09:47:06</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.dll">
+      <publishTime>12/09/2021 09:47:06</publishTime>
+    </File>
+    <File Include="bin/System.Net.Sockets.dll">
+      <publishTime>12/09/2021 09:47:06</publishTime>
+    </File>
+    <File Include="bin/System.Runtime.CompilerServices.Unsafe.dll">
+      <publishTime>12/09/2021 09:47:07</publishTime>
+    </File>
+    <File Include="bin/System.Runtime.InteropServices.RuntimeInformation.dll">
+      <publishTime>12/09/2021 09:47:08</publishTime>
+    </File>
+    <File Include="bin/System.Security.Cryptography.Algorithms.dll">
+      <publishTime>12/09/2021 09:47:08</publishTime>
+    </File>
+    <File Include="bin/System.Security.Cryptography.Encoding.dll">
+      <publishTime>12/09/2021 09:47:08</publishTime>
+    </File>
+    <File Include="bin/System.Security.Cryptography.Primitives.dll">
+      <publishTime>12/09/2021 09:47:08</publishTime>
+    </File>
+    <File Include="bin/System.Security.Cryptography.X509Certificates.dll">
+      <publishTime>12/09/2021 09:47:08</publishTime>
+    </File>
     <File Include="bin/System.Web.Helpers.dll">
       <publishTime>02/01/2018 12:20:56</publishTime>
     </File>
@@ -194,6 +263,9 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     </File>
     <File Include="bin/System.Web.WebPages.Razor.dll">
       <publishTime>02/01/2018 12:20:56</publishTime>
+    </File>
+    <File Include="bin/System.Xml.ReaderWriter.dll">
+      <publishTime>12/09/2021 09:47:08</publishTime>
     </File>
     <File Include="bin/WebGrease.dll">
       <publishTime>01/23/2014 13:57:34</publishTime>
@@ -244,7 +316,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>12/08/2021 11:10:25</publishTime>
     </File>
     <File Include="PrecompiledApp.config">
-      <publishTime>12/08/2021 11:13:01</publishTime>
+      <publishTime>12/09/2021 09:48:05</publishTime>
     </File>
     <File Include="Scripts/bootstrap.js">
       <publishTime>12/08/2021 11:10:25</publishTime>
@@ -307,7 +379,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>12/08/2021 11:10:21</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>12/08/2021 11:13:00</publishTime>
+      <publishTime>12/09/2021 09:48:04</publishTime>
     </File>
   </ItemGroup>
 </Project>
