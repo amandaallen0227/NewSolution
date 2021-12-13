@@ -107,7 +107,6 @@ C:\Users\aalle\Projects\NewProject\NewProject\bin\System.Runtime.CompilerService
 C:\Users\aalle\Projects\NewProject\NewProject\bin\Web.config
 C:\Users\aalle\Projects\NewProject\NewProject\bin\Web.Debug.config
 C:\Users\aalle\Projects\NewProject\NewProject\bin\Web.Release.config
-C:\Users\aalle\Projects\NewProject\NewProject\bin\Stackify.json
 C:\Users\aalle\Projects\NewProject\NewProject\bin\packages.config
 C:\Users\aalle\Projects\NewProject\NewProject\bin\netstandard.dll
 C:\Users\aalle\Projects\NewProject\NewProject\bin\System.Collections.Concurrent.dll
