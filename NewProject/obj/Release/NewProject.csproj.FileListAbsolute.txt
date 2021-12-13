@@ -103,11 +103,9 @@ C:\Users\aalle\Projects\NewProject\NewProject\bin\Microsoft.Extensions.Primitive
 C:\Users\aalle\Projects\NewProject\NewProject\bin\Serilog.xml
 C:\Users\aalle\Projects\NewProject\NewProject\bin\System.Diagnostics.DiagnosticSource.xml
 C:\Users\aalle\Projects\NewProject\NewProject\bin\System.Runtime.CompilerServices.Unsafe.xml
-C:\Users\aalle\Projects\NewProject\NewProject\obj\Release\NewProject.csprojAssemblyReference.cache
 C:\Users\aalle\Projects\NewProject\NewProject\bin\Web.config
 C:\Users\aalle\Projects\NewProject\NewProject\bin\Web.Debug.config
 C:\Users\aalle\Projects\NewProject\NewProject\bin\Web.Release.config
-C:\Users\aalle\Projects\NewProject\NewProject\bin\Stackify.json
 C:\Users\aalle\Projects\NewProject\NewProject\bin\packages.config
 C:\Users\aalle\Projects\NewProject\NewProject\bin\netstandard.dll
 C:\Users\aalle\Projects\NewProject\NewProject\bin\System.Collections.Concurrent.dll
